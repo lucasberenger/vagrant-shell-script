@@ -6,14 +6,14 @@
 
 ## Descrição
 O Vagrantile configura a máquina virtual com o nome de "Ubuntu-02" e instala alguns pacotes importantes em qualquer distribuição Linux, sendo eles: 
-    1. VIM 
-    2. curl
-    3. telnet
-    4. unzip 
-    5. wget
-    6. net-tools
-    7. htop
-    8. nmap
+ 1. VIM 
+ 2. curl
+ 3. telnet
+ 4. unzip 
+ 5. wget
+ 6. net-tools
+ 7. htop
+ 8. nmap
 
 ## Passo a passo para rodar a VM
 
